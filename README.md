@@ -1,4 +1,4 @@
-# UniTrack — University Admissions Dashboard
+# admission-track-system — University Admissions Dashboard
 
 > A professional, role-based internal dashboard for tracking student leads, applications, and admissions across a university sales operation. Built with **React 18 + Tailwind CSS + Vite**.
 
